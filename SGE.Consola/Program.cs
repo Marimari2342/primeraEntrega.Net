@@ -180,7 +180,7 @@ void BajaTramite() {
     Tramite t=new Tramite();
     Console.WriteLine("Ingrese los siguientes datos para poder dar de baja un trámite: ");
     Console.Write("Ingrese su id de usuario: "); int idUsuario= int.Parse(Console.ReadLine()?? "");
-    Console.Write("Ingrese el id del tramite que desea dar de baja: "); t.ExpedienteId = int.Parse(Console.ReadLine()?? "");
+    Console.Write("Ingrese el id del tramite que desea dar de baja: "); t.Id = int.Parse(Console.ReadLine()?? "");
 
     ITramiteRepositorio tramiteRepo= new TramiteRepositorioTXT();
     IExpedienteRepositorio expedienteRepo = new ExpedienteRepositorioTXT();
@@ -190,7 +190,7 @@ void BajaTramite() {
     var casoBaja= new CasoDeUsoTramiteBaja(tramiteRepo, autorizacionProvisoria,servicioAE);
 
     casoBaja.Ejecutar(t,idUsuario);
-    Console.WriteLine($"Se eliminó el tramite con id {t.ExpedienteId}.");
+    Console.WriteLine($"Se eliminó el tramite con id {t.Id}.");
 
   }
   catch (ValidacionException msj){
