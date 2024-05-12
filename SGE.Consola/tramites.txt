@@ -1,0 +1,35 @@
+1
+4
+EscritoPresentado
+Probar funcionalidad del caso de uso para dar de alta un tramite
+8/5/2024 20:30:27
+8/5/2024 20:30:27
+1
+2
+6
+PaseAEstudio
+Prueba 2
+8/5/2024 20:31:45
+8/5/2024 20:31:45
+1
+4
+4
+EscritoPresentado
+Prueba tramite alta
+10/5/2024 17:00:05
+10/5/2024 17:00:05
+1
+5
+7
+PaseAlArchivo
+Prueba 2
+12/5/2024 12:22:37
+12/5/2024 13:27:04
+1
+6
+7
+Resolucion
+Prueba 3
+12/5/2024 13:28:00
+12/5/2024 14:01:31
+1
