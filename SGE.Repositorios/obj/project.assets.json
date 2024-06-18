@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CONSU\\.nuget\\packages\\": {}
+    "C:\\Users\\maria\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CONSU\\proyectosDotnet\\SGE\\SGE.Repositorios\\SGE.Repositorios.csproj",
+      "projectUniqueName": "C:\\Users\\maria\\Downloads\\primeraEntrega.Net\\SGE.Repositorios\\SGE.Repositorios.csproj",
       "projectName": "SGE.Repositorios",
-      "projectPath": "C:\\Users\\CONSU\\proyectosDotnet\\SGE\\SGE.Repositorios\\SGE.Repositorios.csproj",
-      "packagesPath": "C:\\Users\\CONSU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CONSU\\proyectosDotnet\\SGE\\SGE.Repositorios\\obj\\",
+      "projectPath": "C:\\Users\\maria\\Downloads\\primeraEntrega.Net\\SGE.Repositorios\\SGE.Repositorios.csproj",
+      "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\maria\\Downloads\\primeraEntrega.Net\\SGE.Repositorios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\CONSU\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\CONSU\\proyectosDotnet\\SGE\\SGE.Aplicacion\\SGE.Aplicacion.csproj": {
-              "projectPath": "C:\\Users\\CONSU\\proyectosDotnet\\SGE\\SGE.Aplicacion\\SGE.Aplicacion.csproj"
+            "C:\\Users\\maria\\Downloads\\primeraEntrega.Net\\SGE.Aplicacion\\SGE.Aplicacion.csproj": {
+              "projectPath": "C:\\Users\\maria\\Downloads\\primeraEntrega.Net\\SGE.Aplicacion\\SGE.Aplicacion.csproj"
             }
           }
         }

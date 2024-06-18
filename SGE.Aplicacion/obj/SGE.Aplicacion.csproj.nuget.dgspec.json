@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CONSU\\proyectosDotnet\\SGE\\SGE.Aplicacion\\SGE.Aplicacion.csproj": {}
+    "C:\\Users\\maria\\Downloads\\primeraEntrega.Net\\SGE.Aplicacion\\SGE.Aplicacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CONSU\\proyectosDotnet\\SGE\\SGE.Aplicacion\\SGE.Aplicacion.csproj": {
+    "C:\\Users\\maria\\Downloads\\primeraEntrega.Net\\SGE.Aplicacion\\SGE.Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CONSU\\proyectosDotnet\\SGE\\SGE.Aplicacion\\SGE.Aplicacion.csproj",
+        "projectUniqueName": "C:\\Users\\maria\\Downloads\\primeraEntrega.Net\\SGE.Aplicacion\\SGE.Aplicacion.csproj",
         "projectName": "SGE.Aplicacion",
-        "projectPath": "C:\\Users\\CONSU\\proyectosDotnet\\SGE\\SGE.Aplicacion\\SGE.Aplicacion.csproj",
-        "packagesPath": "C:\\Users\\CONSU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CONSU\\proyectosDotnet\\SGE\\SGE.Aplicacion\\obj\\",
+        "projectPath": "C:\\Users\\maria\\Downloads\\primeraEntrega.Net\\SGE.Aplicacion\\SGE.Aplicacion.csproj",
+        "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maria\\Downloads\\primeraEntrega.Net\\SGE.Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CONSU\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
